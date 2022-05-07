@@ -18,6 +18,8 @@ This downloader is based on the work that finished by zaytoun (Sci-Hub API) and 
 
 *   Download articles everywhere with internet connection
 
+*   SCI-HUB source can change automatically
+
 ## How to run this downloader
 
 ### Run this downloader by the source code
