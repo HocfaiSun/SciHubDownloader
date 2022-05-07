@@ -4,7 +4,7 @@
 
 ## About  this downloader
 
-This downloader is  based on the work that  finished by  zaytoun (Sci-Hub API) and Israel Dryer (ttkbootstrap).
+This downloader is based on the work that finished by zaytoun (Sci-Hub API) and Israel Dryer (ttkbootstrap).
 
 ## Features
 
