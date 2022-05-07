@@ -45,4 +45,5 @@ If you want to clear your input information, you can click `CLEAR INPUT` button 
 ## Other things
 
 *   Please don't move `scihublogo.png` file in the folder, the downloader will not work without this file.
+*   Due to the large size and bad performance of Mac version, here I will not upload Mac version.
 
