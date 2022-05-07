@@ -24,11 +24,11 @@ This downloader is based on the work that finished by zaytoun (Sci-Hub API) and 
 
 ### Run this downloader by the source code
 
-If you are good at coding, you can run and customize the source code, but first you need go to zaytoun's project page [zaytoun](https://github.com/zaytoun/scihub.py) to download the source code which is a part of this projects, then move the file `scihub.py` in `scihub` folder to  `SciHubDownloader` folder of this project, now you can run  `main.py`  in  `SciHubDownloader` and change the code as you want. If you can't run the souce code, please don't forget to install the required modules in terminal.
+If you are good at coding, you can run and customize the source code, but first you need go to [zaytoun's project page](https://github.com/zaytoun/scihub.py) to download the source code which is a part of this projects, then move the file `scihub.py` in `scihub` folder to  `SciHubDownloader` folder of this project, now you can run  `main.py`  in  `SciHubDownloader` and change the code as you want. If you can't run the souce code, please don't forget to install the required modules in terminal.
 
 ### Run this downloader by clients
 
-If you are not good at coding, you can download all of the files in this project, then extract the zip file `SciHubDownloader_for_Win.zip` based on your OS. Now you can double click  `main.exe` to run this downloader directly.
+If you are not good at coding, you can download all of the files in this project, then extract the zip file `SciHubDownloader_for_Win.zip`. Now you can double click  `main.exe` to run this downloader directly.
 
 ## How to use this downloader
 
