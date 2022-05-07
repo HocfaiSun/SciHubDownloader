@@ -8,7 +8,7 @@ This downloader is  based on the work that  finished by  zaytoun (Sci-Hub API) a
 
 ## Features
 
-*   Download SCI articles by articles title, URL and DOI
+*   Download SCI articles by article's title, URL and DOI
 
 *   Downlaod multiple articles use different combination
 
