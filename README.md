@@ -2,7 +2,7 @@
 
 ![downloader_logo](/downloader.png)
 
-## Client update
+## Client update 2022/06/02
 Bulk download function has been added to the new client version 2.1, please download `Scihubdownloader_for_Win_ver.2.1.zip` for new function.
 
 
