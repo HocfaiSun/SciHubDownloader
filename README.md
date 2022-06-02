@@ -1,10 +1,17 @@
 # Sci-Hub Downloader Ver.2.1
 
-![downloader_logo](/downloader.png)
+![downloader_logo](/scidownloader_new.png)
 
 ## Client update 2022/06/02
-Bulk download function has been added to the new client version 2.1, please download `Scihubdownloader_for_Win_ver.2.1.zip` for new function.
+`BULK DOWNLOAD` function has been added to the new client version 2.1, please download `Scihubdownloader_for_Win_ver.2.1.zip` for new function.
 
+Now, you can click `BULK DOWNLOAD` to select txt file to download all articles at once and don't need to input all information with `;` for separation.
+
+The format of txt file as below:
+
+![txt_file](/txtfile.png)
+
+If you want to save the articles to assigned folder, please click `SAVE PATH` button and select the folder, then click `BULK DOWNLOAD` button, the downloaded articles will be saved to the folder you selected. If you don't assign the folder, the articles will be saved to the folder where `main.exe` exists.
 
 ## About this downloader
 
