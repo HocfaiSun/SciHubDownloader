@@ -2,7 +2,11 @@
 
 ![downloader_logo](/downloader.png)
 
-## About  this downloader
+## Client update
+Bulk download function has been added to the new client version 2.1, please download `Scihubdownloader_for_Win_ver.2.1.zip` for new function.
+
+
+## About this downloader
 
 This downloader is based on the work that finished by zaytoun (Sci-Hub API) and Israel Dryer (ttkbootstrap).
 
