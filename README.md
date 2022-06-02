@@ -11,7 +11,7 @@ The format of txt file as below:
 
 ![txt_file](/txtfile.png)
 
-If you want to save the articles to assigned folder, please click `SAVE PATH` button and select the folder, then click `BULK DOWNLOAD` button, the downloaded articles will be saved to the folder you selected. If you don't assign the folder, the articles will be saved to the folder where `main.exe` exists.
+If you want to save the articles to assigned folder, please click `SAVE PATH` button and select the folder, then click `BULK DOWNLOAD` button and select txt file, the downloaded articles will be saved to the folder you selected. If you don't assign the folder, the articles will be saved to the folder where `main.exe` exists.
 
 ## About this downloader
 
