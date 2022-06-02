@@ -1,4 +1,4 @@
-# Sci-Hub Downloader Ver.2.0
+# Sci-Hub Downloader Ver.2.1
 
 ![downloader_logo](/downloader.png)
 
